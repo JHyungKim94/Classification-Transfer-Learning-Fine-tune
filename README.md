@@ -8,4 +8,4 @@
 : By crawling on Google, Naver, Dataset is set up.
 
 ### 3. Reference
-1) "Very Deep Convolutional Networks for Large-Scale Image Recognition" (Karen Simonyan, Andrew Zisserman)
+a. "Very Deep Convolutional Networks for Large-Scale Image Recognition" (Karen Simonyan, Andrew Zisserman)
